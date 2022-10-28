@@ -1,26 +1,3 @@
 # Next.js Crash Course Project
 
-Project from my Next.js crash course on YouTube
-
-### Run the development server:
-
-```bash
-npm run dev
-```
-
-### Build for production AND generate static website into "out" folder:
-
-```bash
-npm run build
-```
-
-### Run in production:
-
-```bash
-npm start
-```
-
-### API Routes:
-
-GET /api/articles
-GET /api/articles/:id
+[Untitled_ Sep 14, 2022 7_41 PM.webm](https://user-images.githubusercontent.com/99150447/198734416-0bf54220-75ac-40ef-ab42-d4499ebbac35.webm)
